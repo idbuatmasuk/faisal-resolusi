@@ -1,3 +1,4 @@
 FAISAL RESOLUSI
 -belajar git dan github
 -belajar coding
+-mencoba coding
